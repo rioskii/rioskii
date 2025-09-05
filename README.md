@@ -3,7 +3,7 @@
 <!-- صورة بانر غامضة -->
 <!-- بانر أو صورة من عندك -->
 <p align="center">
-  <img src="https://github.com/rioskii/rioskii/blob/main/wallhaven-p9xv1e.jpg" alt="shadow image" width="100%">
+  <img src="https://github.com/rioskii/rioskii/blob/main/Screenshot%202025-09-06%20003054.png" alt="shadow image" width="100%">
 </p>
 
 # 🕶 Welcome to the shadows...
