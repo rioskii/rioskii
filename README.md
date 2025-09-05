@@ -10,7 +10,7 @@
 
 ---
 
-## ⚔ أدواتي
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -24,8 +24,8 @@
 
 ---
 
-## ✨
+
 <p align="center">
-  <img src="https://i.ibb.co/1dN9VhL/skull.gif" alt="dark skull" width="120"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM0ODd0ZGw4NGs4ZXpxZm9laHF0M3M0b2RsdzI5NmtsMWhxZ2llcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="120"/>
 </p>
 
