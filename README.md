@@ -6,7 +6,7 @@
   <img src="https://github.com/rioskii/rioskii/blob/main/Screenshot%202025-09-06%20003054.png" alt="shadow image" width="100%">
 </p>
 
-# 🕶 Welcome to the shadows...
+
 
 ---
 
@@ -29,6 +29,3 @@
   <img src="https://i.ibb.co/1dN9VhL/skull.gif" alt="dark skull" width="120"/>
 </p>
 
-<p align="center">
-  <i>"الصمت سلاحي... والكود عالمي."</i>
-</p>
